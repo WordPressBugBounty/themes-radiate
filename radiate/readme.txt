@@ -70,8 +70,8 @@ If you want to translate this theme to your language, Please visit:- https://tra
 /**********************************************************/
 
 == CHANGE LOG ==
-= Version 1.4.1 - 2023-09-18 =
-* Tweak - Updated Wordpress tested upto version to 6.3.
+= Version 1.4.2 -2025-06-27 =
+* Fix - Header search issue. 
 
 = Version 1.4.0 -2021-08-18 =
 * Enhancement - Added CSS font-display property and swap value for better performance.
